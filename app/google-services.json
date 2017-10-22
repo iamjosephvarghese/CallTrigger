@@ -1,0 +1,148 @@
+{
+  "project_info": {
+    "project_number": "222315734307",
+    "firebase_url": "https://tourist-23bb8.firebaseio.com",
+    "project_id": "tourist-23bb8",
+    "storage_bucket": "tourist-23bb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222315734307:android:f1fe8b9a2b4d2b28",
+        "android_client_info": {
+          "package_name": "jv.roundemlon.tourist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222315734307-c8g193rfvcc1aplthb8bhcil1d7fi8hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdln3LVfKX4J0AGNpAxETTU51sZRMFwS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222315734307:android:dd4236580b06f2b9",
+        "android_client_info": {
+          "package_name": "jv.roundemlon.mathafreshfish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222315734307-c8g193rfvcc1aplthb8bhcil1d7fi8hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdln3LVfKX4J0AGNpAxETTU51sZRMFwS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222315734307:android:08c03829e24b3865",
+        "android_client_info": {
+          "package_name": "com.roundmelon.joseph.fetchgoogleplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222315734307-g9kqodrccs8vvvu9226h4vhlbq84rrn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roundmelon.joseph.fetchgoogleplaces",
+            "certificate_hash": "f8948a51052ea337109e505d3c169dfb5a81efb8"
+          }
+        },
+        {
+          "client_id": "222315734307-c8g193rfvcc1aplthb8bhcil1d7fi8hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdln3LVfKX4J0AGNpAxETTU51sZRMFwS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222315734307-c8g193rfvcc1aplthb8bhcil1d7fi8hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222315734307:android:ae9b5fd8e7cc6c1f",
+        "android_client_info": {
+          "package_name": "joseph.roundmelon.com.calltrigger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222315734307-c8g193rfvcc1aplthb8bhcil1d7fi8hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdln3LVfKX4J0AGNpAxETTU51sZRMFwS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
