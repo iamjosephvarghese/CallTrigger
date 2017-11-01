@@ -1,0 +1,8 @@
+{
+  "users" : {
+    "user1" : {
+      "job" : "developer",
+      "name" : "abc"
+    }
+  }
+}
